@@ -1,0 +1,15 @@
+title: Arnav Choudhry
+position: Ph.D. Student
+affiliation: Carnegie Mellon University
+email: arnav (at) cmu.edu
+keywords: machine learning transportation
+google_scholar: https://scholar.google.com/citations?user=RqhloOEAAAAJ&hl=en
+github_link: https://github.com/arnav1
+linkedin: https://www.linkedin.com/in/arnavchoudhry/
+avatar: ./assets/img/IMG_1590.png
+google_analytics: # enter it here
+favicon: ./assets/img/favicon.png
+favicon_dark: ./assets/img/favicon-dark.png
+description: This is the personal website of Arnav Choudhry. Thanks for visiting.
+canonical: http://arnav.work/
+remote_theme: yaoyao-liu/minimal-light
