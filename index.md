@@ -10,7 +10,8 @@ I finished my undergrad (B.Tech.) in Civil Engineering (minor in Operations Rese
 
 ## Research Interests
 
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Machine Learning:** meta-learning, transfer learning, time series prediction, anomaly detection, few-shot learning
+- **Transportation:** hybrid mass people movement policy, smart curbspaces, autonomous driving policy
 
 <!-- ## News
 
