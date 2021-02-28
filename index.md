@@ -27,7 +27,7 @@ I finished my undergrad (B.Tech.) in Civil Engineering (minor in Operations Rese
   <br>
   **Arnav Choudhry\***, Brady Moon\*, Jay Patrikar\*, Sebastian Scherer
   <br>
-  Submitted. The 2021 International Conference on Robotics and Automation. **ICRA 2021**
+  The 2021 International Conference on Robotics and Automation. **ICRA 2021**
   <br>
   [[PDF](#)] [[Code](#)] <!-- <strong><i style="color:#e74d3c">Oral Presentation</i></strong> -->
 
