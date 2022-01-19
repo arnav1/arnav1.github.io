@@ -4,9 +4,13 @@ layout: homepage
 
 ## About
 
-I am a second year PhD student at the [Mobility Data Analytics Center](http://mac.heinz.cmu.edu) (affiliated with the [Civil Engineering](https://www.cmu.edu/cee/) and [Machine Learning Departments](https://www.ml.cmu.edu)), advised by [Dr. Sean Qian](https://faculty.ce.cmu.edu/qian/). I am interested in using data to improve the built environment. Currently, I am working on improving energy efficiency of last-mile delivery.
+I am starting my fourth year (Jan 2022) as a PhD student at the [Mobility Data Analytics Center](http://mac.heinz.cmu.edu) (affiliated with the [Civil Engineering](https://www.cmu.edu/cee/) and [Machine Learning Departments](https://www.ml.cmu.edu)), advised by [Dr. Sean Qian](https://faculty.ce.cmu.edu/qian/). I am interested in using data to improve the built environment. Currently, I am working on using data to inform decision making for the next generation of last-mile delivery infrastructure. Some of my experience is related to understanding the risk and safety of machine learning algorithms used in advanced autonomous systems. 
 
-I finished my undergrad (B.Tech.) in Civil Engineering (minor in Operations Research) from [IIT Madras](https://www.iitm.ac.in). Earlier, I have worked as a research intern at the [Research Center for Advanced Science and Technology](https://www.rcast.u-tokyo.ac.jp/ja/index.html) of the [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) under [Dr. Hideki Koizumi](http://ut-cd.com/english/), and also as a management consulting intern at [PwC India](https://www.pwc.in).
+<!-- 
+Some of my work is also related to interpreting 
+-->
+
+I finished my undergrad (B.Tech.) in Civil Engineering (minor in Operations Research) from [IIT Madras](https://www.iitm.ac.in). In the summer of 2021, I worked at [Apple SPG](https://www.apple.com) on Data Science for autonomous systems. Earlier, I have worked as a research intern at the [Research Center for Advanced Science and Technology](https://www.rcast.u-tokyo.ac.jp/ja/index.html) of the [University of Tokyo](https://www.u-tokyo.ac.jp/en/index.html) under [Dr. Hideki Koizumi](http://ut-cd.com/english/), and also as a management consulting intern at [PwC India](https://www.pwc.in).
 
 ## Research Interests
 
@@ -23,6 +27,14 @@ I finished my undergrad (B.Tech.) in Civil Engineering (minor in Operations Rese
 
 ## Publications and preprints
 
+- **Energy Consumption and Greenhouse Gas Emissions of Autonomous Robots as an Alternative for Last-mile Delivery**
+  <br>
+  Thiago A. Rodrigues, **Arnav Choudhry**, Natalia L. Oliveira, H. Scott Matthews, Sebastian Scherer, Constantine Samaras
+  <br>
+  Transportation Research Board 101st Annual Meeting. **TRB 2022**
+  <br>
+  [[PDF](#)]
+
 - **CVaR-based Flight Energy Risk Assessment for Multirotor UAVs using a Deep Energy Model**
   <br>
   **Arnav Choudhry\***, Brady Moon\*, Jay Patrikar\*, Sebastian Scherer
@@ -35,7 +47,7 @@ I finished my undergrad (B.Tech.) in Civil Engineering (minor in Operations Rese
   <br>
   Thiago Rodrigues, Jay Patrikar, **Arnav Choudhry**, Jacob Feldgoise, Vaibhav Arcot, Aradhana Gahlaut, Sophia Lau, Brady Moon, Bastian Wagner, H. Scott Matthews, Sebastian Scherer, and Constantine Samaras
   <br>
-  Submitted. nature Scientific Data, 2020.
+  nature Scientific Data, 2020.
   <br>
   [[PDF](#)]
 
